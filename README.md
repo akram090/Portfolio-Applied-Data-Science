@@ -1,8 +1,13 @@
 # Portfolio-Applied-Data-Science
-ebwdjkbsjkbjkwkj
+Dit is de ADS portfolio van Akram M'barek (19066171). 
 
 # Inhoudsopgave
-1. [Certificaten Datacamp Courses]
+1. Certificaten Datacamp Courses
+2. Research Project
+3. Datascience notebooks 
+Bijlage 1: Review & Retrospective
+Bijlage 2: Abc
+Bijlage 3: Abc
 
 
 # 1. Certificaten Datacamp Courses
