@@ -1,11 +1,12 @@
 # Portfolio-Applied-Data-Science
 ebwdjkbsjkbjkwkj
 
+# Inhoudsopgave
+- Certificaten Datacamp Courses
 
 
 
-
-## Certificaten Datacamp
+## Certificaten Datacamp Courses
 Dit zijn mijn [certificaten](https://github.com/akram090/Portfolio-Applied-Data-Science/tree/main/Certficaten)
 
 
@@ -17,4 +18,4 @@ Kijk in [iris notebook](https://github.com/akram090/Portfolio-Applied-Data-Scien
 
 
 ## Review & Retrospective
-1. [R&R - Sprint 1](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/R%26R%20Sprint%201.md)
+1. [R&R Container - Sprint 1](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/R%26R%20Sprint%201.md)
