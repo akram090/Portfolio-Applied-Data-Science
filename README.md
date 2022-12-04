@@ -4,8 +4,8 @@ Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de 
 # Inhoudsopgave
 1. Certificaten Datacamp Courses
 2. Research Project
-  - 2.1 Planning
-  - 2.2 Task definition
+    2.1 Planning
+    2.2 Task definition
 3. Datascience notebooks 
 - Bijlage 1: Review & Retrospective
 - Bijlage 2: Abc
