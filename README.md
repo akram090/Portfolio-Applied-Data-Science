@@ -13,7 +13,7 @@ Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de 
 
 
 # 1. Certificaten Datacamp Courses
-Dit zijn mijn Datacamp [certificaten](https://github.com/akram090/Portfolio-Applied-Data-Science/tree/main/Certficaten)
+In dit onderdeel zijn de afgeronde Datacamp courses weergegeven. Elke afgeronde course is als certificaat in Pdf-formaat weergegeven. Hier zijn mijn Datacamp [certificaten](https://github.com/akram090/Portfolio-Applied-Data-Science/tree/main/Certficaten) te vinden.
 
 # 2. Research Project
 In dit onderdeel worden een aantal werkzaamheden beschreven en onderbouwd aan de hand van bewijzen. Deze bewijzen resulteren in de vorm van verwijzingen naar documenten, pagina’s of links met betrekking tot beide projecten (Foodboost en Container) binnen de Applied Data Science course. Alle werkzaamheden en de opleveringen die hieruit voortkomen, zijn hieronder uitgebreid beschreven. 
