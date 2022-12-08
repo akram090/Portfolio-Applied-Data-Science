@@ -35,6 +35,7 @@ Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamhed
 # 3. Datascience notebooks 
 Kijk in [iris notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/iris-classification-random-forest-Akram.ipynb) wat ik bij kop 4 heb gedaan
 
+# 4. Communication
 
 
 # Bijlage A: Review & Retrospective
