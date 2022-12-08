@@ -1,6 +1,6 @@
 # Reflectie: Eigen Contributie Foodboost project (STARR)
 
-In dit onderdeel is de reflectie op mijn eigen contributie aan het Foodboost project weergegeven. De reflectie van het Foodboost project is onderbouwd aan de hand van de STARR-methode. 
+In dit onderdeel is de reflectie op mijn eigen contributie aan het Foodboost project weergegeven. De reflectie op het het Foodboost project is onderbouwd aan de hand van de STARR-methode. 
 
 ### Situatie
 In dit onderdeel zullen de werkzaamheden m.b.t. het Foodboost project kort besproken worden. Er zal vanuit de lopende tekst verwezen worden naar een pagina of document (in de vorm van een link), waar de bijdragen verder in details te zien zijn. Daarnaast zal de gewaarborgde kwaliteit van de onderwerpen die aan bod zullen komen, besproken worden en welke methodieken ik daarbij heb gehanteerd. De taken/werkzaamheden waar ik mee gedurende het Foodboost project mee heb bezig gehouden, zijn het literatuuronderzoek, het uitnodigen en onderhouden van de groepscontacten met de docenten voor wekelijkse gesprekken, onderhouden van de scrumboard in Trello en het opstellen en bijwonen van de interne en externe presentaties.
