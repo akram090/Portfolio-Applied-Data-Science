@@ -7,7 +7,7 @@ In dit onderdeel zullen de werkzaamheden m.b.t. het Foodboost project kort bespr
 hoe  zijn de planning in het scrumboard, de literatuuronderzoek, het verkrijgen van inzicht in nutriënten, waarden en hoe dit van toepassing is op vegetariërs. Ook de aandeel tijdens elke interne presentatie momenten. 
 
 
-###Taak
+### Taak
 Het uitvoeren van deze werkzaamheden had voor mij als doel om vele nuttige gegevens te verzamelen om bepaalde (deel)producten mee op te kunnen leveren. Daarnaast was het doel ook om met deze nuttige gegevens mijn groepsleden te voorzien van bruikbare input voor hun eigen werkzaamheden. Dit zorgt er ook voor dat de voortgang van het groepswerk wordt bevorderd. Door de wekelijkse gesprekken met de docenten en de samenwerking onderling in de groep, heb ik wat betreft ‘literatuuronderzoek’ goed deskresearch uitgevoerd. Ook het DOT-framework heb ik hierbij geraadpleegd. Dit gaf mij de mogelijkheid om verantwoord bepaalde methoden & technieken te gebruiken voor een bepaald vraagstuk. Ook had ik het voortouw genomen in de communicatie met de begeleidende docenten en het door informeren van eventuele zaken (m.b.t. afspraken, informatie, data etc.) naar mijn groep. Een andere taak wat ik op mij heb genomen is het onderhouden van de scrumboard in Trello. In dit scrumboard heb ik gefaseerd (in sprints) de voortgang bijgehouden van het groepswerken en gaf ik ook duidelijk weer hoe de stand van zaken qua werkzaamheden en opleveringen is ingesteld. 
 
 
