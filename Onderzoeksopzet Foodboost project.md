@@ -25,7 +25,7 @@ Hoe kunnen we voor 7 oktober 2022 vegetariërs een wekelijks variërend dieet aa
 
  
 
-## Deelvragen 
+### Deelvragen 
 - Welke behoeften heeft een vegetariër met betrekking tot het dieet? 
 - Hoe kan er een vegetarisch dieet aangeboden worden zodat deze voldoet aan alle verschillende persoonlijke caloriebehoeften binnen de groep vegetariërs. 
 - Hoe kan er een vegetarisch dieet worden aangeboden dat wekelijks varieert. 
