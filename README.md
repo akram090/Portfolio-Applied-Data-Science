@@ -51,6 +51,9 @@ Voor het schrijven van onze paper heb ik een groot deel gewerkt aan het maken va
 
 # Bijlage A: Review & Retrospective
 1. [R&R Container - Sprint 1](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/R%26R%20Sprint%201.md)
+2. [R&R Container - Sprint 2](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%202.md)
+3. [R&R Container - Sprint 3](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%203.md)
+4. [R&R Container - Sprint 4](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%204.md)
 
 # Bijlage B: Scrumboard
 
