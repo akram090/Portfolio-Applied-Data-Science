@@ -6,7 +6,7 @@ Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de 
 2. Research Project
     2.1 Planning
     2.2 Task definition
-3. Datas Preprocessing
+3. Data Preprocessing
 4. Communication 
 - Bijlage A: Review & Retrospective
 - Bijlage B: Abc
