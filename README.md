@@ -56,5 +56,7 @@ Voor het schrijven van onze paper heb ik een groot deel gewerkt aan het maken va
 4. [R&R Container - Sprint 4](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%204.md)
 
 # Bijlage B: Scrumboard
+![2023-01-12](https://user-images.githubusercontent.com/113041862/212182725-3a8da138-316a-4b86-a07c-7e476cff891c.png)
+![2023-01-12 (1)](https://user-images.githubusercontent.com/113041862/212182763-f46f42e8-76d8-4217-a912-acf271c23c86.png)
 
 # Bijlage C: Abc
