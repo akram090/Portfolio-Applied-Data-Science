@@ -6,11 +6,11 @@ In de eerste sprint van het Container project hebben wij als groep een begin gem
 
 ## 2.	Evaluatie
 
-**- Wat ging er goed?**
+- **Wat ging er goed?**
 
 Naar mijn eigen zeggen vond ik de wekelijkse gesprekken met de docenten goed gaan. Het was erg informatief, aangezien de docenten wat meer weten over de opdracht. Dit gaf ons als groep een betere beeld in hoeverre wij ons scope het best kunnen bepalen en waar wij het best rekening mee moeten houden. Ook het toepassen van een bepaald machine learning techniek kwam ook aan bod. Dit gaf mij wel het indruk dat we in ieder geval een goede stap hebben gezet richting een oplossing.
 
-**- Wat ging er fout of kan beter?**
+- **Wat ging er fout of kan beter?**
 
 Ik vond dat de groepsmotivatie wat weg is gezakt. Dit kwam mede doordat er een aantal groepsleden tentamens moesten maken en dus de hele week afwezig waren. Daarnaast kreeg ik ook het bericht toegestuurd dat 1 groepslid niet meer doorgaat met de minor en dus ook per direct met het project is afgekapt. Als gevolg hiervan, bleven alleen twee andere groepsgenoten en ik over die de werkzaamheden binnen deze sprint moesten uitvoeren.
 
