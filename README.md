@@ -23,7 +23,7 @@ Minor: Applied Data Science
 
 
 # 1. Certificaten Datacamp Courses
-In dit onderdeel zijn de afgeronde Datacamp courses weergegeven. Elke afgeronde course is als certificaat in Pdf-formaat weergegeven. Hier zijn mijn [Datacamp certificaten](https://github.com/akram090/Portfolio-Applied-Data-Science/tree/main/Certficaten) te vinden.
+In dit onderdeel zijn de afgeronde Datacamp courses weergegeven. Elke afgeronde course is als certificaat in PDF-formaat weergegeven. Hier zijn mijn [Datacamp certificaten](https://github.com/akram090/Portfolio-Applied-Data-Science/tree/main/Certficaten) te vinden.
 
 # 2. Research Project
 In dit onderdeel worden mijn werkzaamheden beschreven en onderbouwd aan de hand van bewijzen. Deze bewijzen resulteren in de vorm van verwijzingen naar documenten, pagina’s of links met betrekking tot beide projecten (Foodboost en Container) waaraan ik binnen de Applied Data Science course heb bijgedragen. Alle werkzaamheden en de opleveringen die hieruit voortkomen, zijn hieronder beschreven. 
