@@ -44,7 +44,7 @@ Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamhed
 
 ## 2.4 Conclusion
 
-Foto laten zien van eerste running van 50000 steps van het PPO-model. Deze was op basis van 50000 steps nog niet optimaal, omdat twee learning rates nog aan het verbteren waren. In een volgende running hanteerden wij 1000000 steps om te valideren of de verbetering daadwerklijk zou blijken (verbeterde foto met 1000000 steps laten zien). 
+[Foto laten zien](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Visualisatie%20PPO%20Learning%20Rate%2050000%20steps.png) van eerste running van 50000 steps van het PPO-model. Deze was op basis van 50000 steps nog niet optimaal, omdat twee learning rates gedurende een episode begonnen te verbeteren. In een volgende running hanteerden wij 1000000 steps om te valideren of de verbetering daadwerklijk zou blijken (verbeterde foto met 1000000 steps laten zien). 
 
 # 3. Data Preprocessing
 Kijk in [iris notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/iris-classification-random-forest-Akram.ipynb) wat ik bij kop 4 heb gedaan
