@@ -38,8 +38,17 @@ Gedurende het uitvoeren van de twee projecten hebben we gewerkt met de SCRUM-met
 -	Dit is de [link](https://trello.com/invite/b/Ty22iopA/8e136287a9d1e50d2ddcb5670dc728f8/applied-data-science-foodboost-groep-4) naar de scrumboard van de Foodboost project. Verwijzen naar foto/figuur is beter!!!!!
 Voor een wat overzichtelijke weergave van de tickets (midden tijdens een sprint) binnen de scrumboard, zie Bijlage B.
 
+
+## 2.2 Task definition
+In het foodboost project heb ik zelf de hoofdvraag en deelvragen gedefinieerd. De onderdelen aanleiding, probleemstelling en doelstelling is door een ander groepslid opgesteld, waarbij ik ook een helpende rol had vervuld. Zie hier het document van het [Foodboost onderzoeksopzet](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Onderzoeksopzet%20Foodboost%20project.md), waar de gedefinieerde hoofdvraag en deelvragen in te vinden zijn.
+
+Daarnaast heb ik zelf ook de doelstelling, hoofdvraag en deelvragen opgesteld in het Container project. In het stuk onder het kopje ‘Inleiding’, zijn de onderdelen aanleiding en probleemstelling door een ander groepslid opgesteld. In samenspraak werden er in de loop van het project wijzigingen aangebracht in de formuleringen van de hoofdvraag, deelvragen en doelstelling. Het herformuleren van deze onderdelen is een aanleiding geweest vanwege het verkrijgen van meer informatie naarmate de dataset beter interpreteer baar werd. De onderdelen zijn dus niet per se fout geformuleerd, maar het kon door meer informatie beter en compacter geformuleerd worden. Zie hier het document van het [onderzoeksopzet van het Container project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Onderzoeksopzet%20Container%20Project.md), waar de gedefinieerde doelstelling, hoofdvraag en deelvragen in te vinden zijn.
+
+## 2.3 Evaluation
+Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamheden van de sprint. Hierbij wordt er aan het eind van elke sprint een Review & Retrospective opgeleverd. De review & retrospective is afkomstig uit de SCRUM-methodiek en is prima toepasbaar in projecten als deze. Er is alleen geëvalueerd op het eigen werk tijdens het Container project. Dit is een voorbedachte keuze, aangezien de Container project een langere duur heeft en wij als groep niet van plan waren om te gaan switchen naar een ander project.  
+
 ### Individuele werkzaamheden
-Zelf was ik bij voorgaande projecten gewend om na elke afronding van een sprint te gaan reviewen op de uitgevoerde werkzaamheden en opleveringen. Zo heb ik dit vanaf het Container project voor mezelf aangehouden om het beste uit mezelf te kunnen halen. Aangezien we met de SCRUM-methodiek werkten, stelde ik een documentnaam, afgeleid uit een SCRUM-term, genaamd "Review & Retrospective" op na het einde van elke sprint. Hierin beschreef ik de volgende punten in het review & retrospective:
+Zelf was ik bij voorgaande projecten gewend om na elke afronding van een sprint te gaan reviewen op de uitgevoerde werkzaamheden en opleveringen. Zo heb ik dit gedaan voor mezelf om het beste uit mezelf te kunnen halen. Aangezien we met de SCRUM-methodiek werkten, stelde ik een documentnaam, afgeleid uit een SCRUM-term, genaamd "Review & Retrospective" op na het einde van elke sprint. Hierin beschreef ik de volgende punten in het review & retrospective:
 
 - Inzicht geven in verband tussen resultaat en het doel
 - Wat ging er goed?
@@ -52,14 +61,6 @@ Hieronder zijn de Review & Retrospective per sprint weergegeven:
 2. [R&R Container - Sprint 2](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%202.md)
 3. [R&R Container - Sprint 3](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%203.md)
 4. [R&R Container - Sprint 4](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%204.md)
-
-## 2.2 Task definition
-In het foodboost project heb ik zelf de hoofdvraag en deelvragen gedefinieerd. De onderdelen aanleiding, probleemstelling en doelstelling is door een ander groepslid opgesteld, waarbij ik ook een helpende rol had vervuld. Zie hier het document van het [Foodboost onderzoeksopzet](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Onderzoeksopzet%20Foodboost%20project.md), waar de gedefinieerde hoofdvraag en deelvragen in te vinden zijn.
-
-Daarnaast heb ik zelf ook de doelstelling, hoofdvraag en deelvragen opgesteld in het Container project. In het stuk onder het kopje ‘Inleiding’, zijn de onderdelen aanleiding en probleemstelling door een ander groepslid opgesteld. In samenspraak werden er in de loop van het project wijzigingen aangebracht in de formuleringen van de hoofdvraag, deelvragen en doelstelling. Het herformuleren van deze onderdelen is een aanleiding geweest vanwege het verkrijgen van meer informatie naarmate de dataset beter interpreteer baar werd. De onderdelen zijn dus niet per se fout geformuleerd, maar het kon door meer informatie beter en compacter geformuleerd worden. Zie hier het document van het [onderzoeksopzet van het Container project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Onderzoeksopzet%20Container%20Project.md), waar de gedefinieerde doelstelling, hoofdvraag en deelvragen in te vinden zijn.
-
-## 2.3 Evaluation
-Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamheden van de sprint. Hierbij wordt er aan het eind van elke sprint een Review & Retrospective opgeleverd. De review & retrospective is afkomstig uit de SCRUM-methodiek en is prima toepasbaar in projecten als deze. Er is alleen geëvalueerd op het eigen werk tijdens het Container project. Dit is een voorbedachte keuze, aangezien de Container project een langere duur heeft en wij als groep niet van plan waren om te gaan switchen naar een ander project. Zie hier de individuele [Review & Retrospective](https://github.com/akram090/Portfolio-Applied-Data-Science/tree/main/Review%20%26%20Retrospectives) documenten per sprint uit het Container project. 
 
 ## 2.4 Conclusion
 
