@@ -2,7 +2,9 @@
 Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de portfolio navigeren door alle de onderdelen, bij het klikken op de knop met de drie bolletjes (linksbovenin). 
 
 Student naam: Akram M'barek
+
 Studentnummer: 19066171
+
 Minor: Applied Data Science
 
 # Inhoudsopgave
