@@ -1,6 +1,10 @@
 # Portfolio-Applied-Data-Science
 Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de portfolio navigeren door alle de onderdelen, bij het klikken op de knop met de drie bolletjes (linksbovenin). 
 
+Student naam: Akram M'barek
+Studentnummer: 19066171
+Minor: Applied Data Science
+
 # Inhoudsopgave
 [1. Certificaten Datacamp Courses](#1-certificaten-datacamp-courses)  
 
@@ -14,9 +18,6 @@ Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de 
 
 [4. Communication](#4-communication) 
 
-- Bijlage A: Review & Retrospective
-- Bijlage B: Abc
-- Bijlage C: Abc
 
 
 # 1. Certificaten Datacamp Courses
