@@ -42,6 +42,10 @@ Daarnaast heb ik zelf ook de doelstelling, hoofdvraag en deelvragen opgesteld in
 ## 2.3 Evaluation
 Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamheden van de sprint. Hierbij wordt er aan het eind van elke sprint een Review & Retrospective opgeleverd. De review & retrospective is afkomstig uit de SCRUM-methodiek en is prima toepasbaar in projecten als deze. Er is alleen geëvalueerd op het eigen werk tijdens het Container project. Dit is een voorbedachte keuze, aangezien de Container project een langere duur heeft en wij als groep niet van plan waren om te gaan switchen naar een ander project. Zie hier de individuele [Review & Retrospective](https://github.com/akram090/Portfolio-Applied-Data-Science/tree/main/Review%20%26%20Retrospectives) documenten per sprint uit het Container project. 
 
+## 2.4 Conclusion
+
+Foto laten zien van eerste running van 50000 steps van het PPO-model. Deze was op basis van 50000 steps nog niet optimaal, omdat twee learning rates nog aan het verbteren waren. In een volgende running hanteerden wij 1000000 steps om te valideren of de verbetering daadwerklijk zou blijken (verbeterde foto met 1000000 steps laten zien). 
+
 # 3. Data Preprocessing
 Kijk in [iris notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/iris-classification-random-forest-Akram.ipynb) wat ik bij kop 4 heb gedaan
 
