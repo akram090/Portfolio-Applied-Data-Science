@@ -2,7 +2,7 @@
 Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de portfolio navigeren door alle de onderdelen, bij het klikken op de knop met de drie bolletjes (linksbovenin). 
 
 # Inhoudsopgave
-[1. Certificaten Datacamp Courses]([#certificaten-datacamp-courses](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/README.md#1-certificaten-datacamp-courses))  
+[1. Certificaten Datacamp Courses](#1-certificaten-datacamp-courses)  
 
 [2. Research Project](#research-project) 
 
