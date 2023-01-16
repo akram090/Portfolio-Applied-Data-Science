@@ -5,10 +5,10 @@ Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de 
 [1. Certificaten Datacamp Courses](certificaten-datacamp-courses)  
 
 [2. Research Project](research-project)
-    2.1 Planning
-    2.2 Task definition
-3. Data Preprocessing
-4. Communication 
+    [2.1 Planning](planning)
+    [2.2 Task definition](task-definition)
+[3. Data Preprocessing](data-preprocessing)
+[4. Communication](communication) 
 - Bijlage A: Review & Retrospective
 - Bijlage B: Abc
 - Bijlage C: Abc
