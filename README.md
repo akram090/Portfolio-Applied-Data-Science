@@ -29,10 +29,25 @@ In dit onderdeel zijn de afgeronde Datacamp courses weergegeven. Elke afgeronde 
 In dit onderdeel worden mijn werkzaamheden beschreven en onderbouwd aan de hand van bewijzen. Deze bewijzen resulteren in de vorm van verwijzingen naar documenten, pagina’s of links met betrekking tot beide projecten (Foodboost en Container) waaraan ik binnen de Applied Data Science course heb bijgedragen. Alle werkzaamheden en de opleveringen die hieruit voortkomen, zijn hieronder beschreven. 
 
 ## 2.1 Planning
-Door de voortgang tijdens de projecten telkens bij te houden, helpt dit om te weten of wij als groep momenteel goed op schema lopen voor bepaalde deadlines die naderen. Daarnaast is het ook handig om hiermee mijn eigen voortgang m.b.t. mijn aangewezen werkzaamheden beter te kunnen monitoren. Het bijhouden van de voortgang wordt bewerkstelligd door in Trello de planning a.d.h.v. een scrumboard constant bij te houden, te onderhouden en deze aan te passen wanneer het nodig is. Binnen de scrumboard heb ik veelvuldig tickets aangemaakt in de vorm van user stories. Hierbij wees ik, in overleg met mijn groepsleden, bepaalde tickets aan op basis van hun werkzaamheden (inclusief mijn eigen werkzaamheden). Hiermee konden wij gemakkelijk inzien waar een groepslid mee bezig is. Dit zorgde er ook voor dat er efficiënt taken verdeeld konden worden om zo effectief aan het project te kunnen werken.
+Gedurende het uitvoeren van de twee projecten hebben we gewerkt met de SCRUM-methodiek. Hierbij hebben we telkens gewerkt in sprints van twee weken. Bij deze sprints zijn hebben wij geen lineare, maar juist een iteratieve werkwijze gehaanteerd voor het ontwikkelen en opleveren van allerlei (tussen)producten. Door de voortgang tijdens de projecten telkens bij te houden, helpt dit om te weten of wij als groep momenteel goed op schema lopen voor bepaalde deadlines die naderen. Daarnaast is het ook handig om hiermee mijn eigen voortgang m.b.t. mijn aangewezen werkzaamheden beter te kunnen monitoren. Het bijhouden van de voortgang wordt bewerkstelligd door in Trello de planning a.d.h.v. een scrumboard constant bij te houden, te onderhouden en deze aan te passen wanneer het nodig is. Binnen de scrumboard heb ik veelvuldig tickets aangemaakt in de vorm van user stories. Hierbij wees ik, in overleg met mijn groepsleden, bepaalde tickets aan op basis van hun werkzaamheden (inclusief mijn eigen werkzaamheden). Hiermee konden wij gemakkelijk inzien waar een groepslid mee bezig is. Dit zorgde er ook voor dat er efficiënt taken verdeeld konden worden om zo effectief aan het project te kunnen werken.
 -	Dit is de [link](https://trello.com/invite/b/1gds5cFw/ATTIa3437b0ed173b1712f1af2c2c331c6ee64EDFC64/ads-container-project) naar de scrumboard van het container project. Als alternatief zijn er twee foto's ingevoegd van de aangemaakte tickets in de scrumboard (Zie bijlage B of zie hier [foto 1](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/2023-01-12.png) en [foto 2](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/2023-01-12%20(1).png)).
 -	Dit is de [link](https://trello.com/invite/b/Ty22iopA/8e136287a9d1e50d2ddcb5670dc728f8/applied-data-science-foodboost-groep-4) naar de scrumboard van de Foodboost project. Verwijzen naar foto/figuur is beter!!!!!
 Voor een wat overzichtelijke weergave van de tickets (midden tijdens een sprint) binnen de scrumboard, zie Bijlage B.
+
+### Individuele werkzaamheden
+Zelf was ik bij voorgaande projecten gewend om na elke afronding van een sprint te gaan reviewen op de uitgevoerde werkzaamheden en opleveringen. Zo heb ik dit vanaf het Container project voor mezelf aangehouden om het beste uit mezelf te kunnen halen. Aangezien we met de SCRUM-methodiek werkten, stelde ik een review & retrospective na het einde van elke sprint. Hierin beschreef ik de volgende punten in het review & retrospective:
+
+- Inzicht geven in verband tussen resultaat en het doel
+- Wat ging er goed?
+- Wat ging er fout of kan beter?
+- Hoe gaan deze verbeteringen er komen?
+
+Hieronder zijn de Review & Retrospective per sprint weergegeven:
+
+1. [R&R Container - Sprint 1](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%201.md)
+2. [R&R Container - Sprint 2](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%202.md)
+3. [R&R Container - Sprint 3](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%203.md)
+4. [R&R Container - Sprint 4](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%204.md)
 
 ## 2.2 Task definition
 In het foodboost project heb ik zelf de hoofdvraag en deelvragen gedefinieerd. De onderdelen aanleiding, probleemstelling en doelstelling is door een ander groepslid opgesteld, waarbij ik ook een helpende rol had vervuld. Zie hier het document van het [Foodboost onderzoeksopzet](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Onderzoeksopzet%20Foodboost%20project.md), waar de gedefinieerde hoofdvraag en deelvragen in te vinden zijn.
