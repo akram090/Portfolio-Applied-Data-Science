@@ -16,6 +16,10 @@ Minor: Applied Data Science
 
 [2.2 Task definition](#22-task-definition)
 
+[2.3 Evaluation](#23-evaluation)
+
+[2.4 Conclusion](#24-conclusion)
+
 [3. Data Preprocessing](#3-data-preprocessing)
 
 [4. Communication](#4-communication) 
