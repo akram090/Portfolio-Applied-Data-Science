@@ -35,7 +35,7 @@ Gedurende het uitvoeren van de twee projecten hebben we gewerkt met de SCRUM-met
 Voor een wat overzichtelijke weergave van de tickets (midden tijdens een sprint) binnen de scrumboard, zie Bijlage B.
 
 ### Individuele werkzaamheden
-Zelf was ik bij voorgaande projecten gewend om na elke afronding van een sprint te gaan reviewen op de uitgevoerde werkzaamheden en opleveringen. Zo heb ik dit vanaf het Container project voor mezelf aangehouden om het beste uit mezelf te kunnen halen. Aangezien we met de SCRUM-methodiek werkten, stelde ik een review & retrospective na het einde van elke sprint. Hierin beschreef ik de volgende punten in het review & retrospective:
+Zelf was ik bij voorgaande projecten gewend om na elke afronding van een sprint te gaan reviewen op de uitgevoerde werkzaamheden en opleveringen. Zo heb ik dit vanaf het Container project voor mezelf aangehouden om het beste uit mezelf te kunnen halen. Aangezien we met de SCRUM-methodiek werkten, stelde ik een documentnaam, afgeleid uit een SCRUM-term, genaamd "Review & Retrospective" op na het einde van elke sprint. Hierin beschreef ik de volgende punten in het review & retrospective:
 
 - Inzicht geven in verband tussen resultaat en het doel
 - Wat ging er goed?
