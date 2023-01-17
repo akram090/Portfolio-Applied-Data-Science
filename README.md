@@ -64,6 +64,7 @@ Hieronder zijn de Review & Retrospective per sprint weergegeven:
 3. [R&R Container - Sprint 3](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%203.md)
 4. [R&R Container - Sprint 4](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%204.md)
 5. [R&R Container - Sprint 5](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%205.md#review--retrospective--sprint-5)
+6. [R&R Container - Sprint 6](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%206.md)
 
 ## 2.4 Conclusion
 
