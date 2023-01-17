@@ -1,5 +1,5 @@
 # Portfolio-Applied-Data-Science
-Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de portfolio navigeren door alle onderdelen, bij het klikken op de knop met de drie bolletjes (linksbovenin). 
+Dit is de ADS portfolio van Akram M'barek (19066171). Je kunt gemakkelijk in de portfolio navigeren door alle onderdelen, bij het klikken op de knop met de drie bolletjes (linksbovenin) of door te klikken op de koppen in de inhoudsopgave. 
 
 Student naam: Akram M'barek
 
