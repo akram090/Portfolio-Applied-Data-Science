@@ -71,6 +71,10 @@ Hieronder zijn de Review & Retrospective per sprint weergegeven:
 [Foto laten zien](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Visualisatie%20PPO%20Learning%20Rate%2050000%20steps.png) van eerste running van 50000 steps van het PPO-model. Deze was op basis van 50000 steps nog niet optimaal, omdat twee learning rates gedurende een episode begonnen te verbeteren. In een volgende running hanteerden wij 1000000 steps om te valideren of de verbetering daadwerklijk zou blijken (verbeterde foto met 1000000 steps laten zien). 
 
 # 3. Data Preprocessing
+In dit onderdeel heb ik mijn geleerde theorie en kennis toegepast door een notebook aan te maken waarin ik de huisprijzen voorspel. In principe is het een predicitve analysis, maar aangezien ik meer aan de data preprocessing kant heb gewerkt, wil ik dit ook graag aantonen. 
+
+[De notebook van de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20(2).ipynb) gedeelte voor het voorspellen van huisprijzen is in Jypyterhub gedaan. Het kan wat tijd nemen voordat de notebook opent na het klikken.
+
 Kijk in [iris notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/iris-classification-random-forest-Akram.ipynb) wat ik bij kop 4 heb gedaan
 
 # 4. Communication
