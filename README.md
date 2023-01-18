@@ -24,6 +24,10 @@ Minor: Applied Data Science
 
 [4. Communication](#4-communication) 
 
+[Bijlage A]
+
+[Bijlage B]
+
 
 
 # 1. Certificaten Datacamp Courses
@@ -111,4 +115,4 @@ Voor het schrijven van onze paper heb ik een groot deel gewerkt aan het maken va
 ![2023-01-12](https://user-images.githubusercontent.com/113041862/212182725-3a8da138-316a-4b86-a07c-7e476cff891c.png)
 ![2023-01-12 (1)](https://user-images.githubusercontent.com/113041862/212182763-f46f42e8-76d8-4217-a912-acf271c23c86.png)
 
-# Bijlage C: Abc
+# Bijlage C: Jupyter Notebooks
