@@ -105,14 +105,8 @@ Het bijwonen en onderhouden van de wekelijkse gesprekken met de begeleidende doc
 Voor het schrijven van onze paper heb ik een groot deel gewerkt aan het maken van de indeling van hoofdstukken. De indeling heb ik met de begeleidende docent besproken en aangepast op basis van zijn feedback. Daarnaast heb ik in het research paper uitgewerkt wat er precies in elke hoofdstuk geschreven moest worden. Denk aan het puur alleen tonen van bevindingen in een lopende beschrijving in de hoofdstuk ‘Resultaten’. Of dat je in het hoofdstuk ‘Discussie’ verteld wat er beter kon en wat deze resultaten betekenen. Verder heb ik inhoudelijk ook aan de inleiding gewerkt. Hierin stelde ik de doelstelling, hoofdvraag en deelvragen op. Deze onderdelen uit de inleiding had ik al eerder opgesteld in het onderzoek om de scope mee vast te stellen. Als laatste onderdeel heb ik het hoofdstuk 'Conclusie' opgesteld in het paper. Hierin heb ik een korte samenvatting gegeven, waarbij ik dus ben begonnen aan een kort overzicht van het gehele paper. 
 
 
-# Bijlage A: Review & Retrospective
-1. [R&R Container - Sprint 1](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%201.md)
-2. [R&R Container - Sprint 2](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%202.md)
-3. [R&R Container - Sprint 3](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%203.md)
-4. [R&R Container - Sprint 4](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%204.md)
-
-# Bijlage B: Scrumboard
+# Bijlage A: Scrumboard
 ![2023-01-12](https://user-images.githubusercontent.com/113041862/212182725-3a8da138-316a-4b86-a07c-7e476cff891c.png)
 ![2023-01-12 (1)](https://user-images.githubusercontent.com/113041862/212182763-f46f42e8-76d8-4217-a912-acf271c23c86.png)
 
-# Bijlage C: Jupyter Notebooks
+# Bijlage B: Jupyter Notebooks
