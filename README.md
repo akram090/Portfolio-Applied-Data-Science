@@ -39,7 +39,11 @@ Gedurende het uitvoeren van de twee projecten hebben we gewerkt met de SCRUM-met
 
 
 ### Indiduele gewerkte tickets
-fotos van de tickets waar ik zelf aan heb gewerkt.
+
+Hieronder zijn mijn indivudele werkzaamheden beschreven over mijn indivudele aangewezen SCRUM-tickets:
+
+- [Literatuuronderzoek Scrum ticket - Foodboost Project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/Literatuuronderzoek%20Scrum%20ticket%20Foodboost.md)
+
 
 ## 2.2 Task definition
 In het foodboost project heb ik zelf de hoofdvraag en deelvragen gedefinieerd. De onderdelen aanleiding, probleemstelling en doelstelling is door een ander groepslid opgesteld, waarbij ik ook een helpende rol had vervuld. Zie hier het document van het [Foodboost onderzoeksopzet](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Onderzoeksopzet%20Foodboost%20project.md), waar de gedefinieerde hoofdvraag en deelvragen in te vinden zijn.
