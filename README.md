@@ -43,6 +43,8 @@ Gedurende het uitvoeren van de twee projecten hebben we gewerkt met de SCRUM-met
 Hieronder zijn mijn indivudele werkzaamheden beschreven over mijn indivudele aangewezen SCRUM-tickets:
 
 - [Literatuuronderzoek Scrum ticket - Foodboost Project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/Literatuuronderzoek%20Scrum%20ticket%20Foodboost.md)
+- [Gericht Schrijven Scrum ticket - Container Project]
+- 
 
 
 ## 2.2 Task definition
