@@ -24,9 +24,9 @@ Minor: Applied Data Science
 
 [4. Communication](#4-communication) 
 
-[Bijlage A]
+[Bijlage A](#bijlage-a-scrumboard)
 
-[Bijlage B]
+[Bijlage B](#bijlage-b-jupyter-notebooks)
 
 
 
