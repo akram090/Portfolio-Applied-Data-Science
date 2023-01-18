@@ -1,1 +1,4 @@
-test
+# Scrum-ticket Literatuuronderzoek
+
+Voor deze SCRUM-ticket heb ik literatuuronderzoek (ook wel deskresearch genoemd) uitgevoerd samen met een groepslid. [Hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/Literatuuronderzoek%20Scrum%20ticket%20Foodboost.png) is de desbtreffende SCRUM-ticket te vinden. Voor het uitvoeren van deskresearch heb ik de focus gelegd op het verzamelen van bruikbare en beschikbare informatie over onderzoeken die al zijn uitgevoerd. Voor het Foodboost project (in het geval van deze ticket), houdt dit in dat ik op zoek ging naar het dieet (wat ze wel/niet mogen eten) als de leefstijl van vegetariërs. Hierbij heb ik rekening gehouden of de dieet parallel loopt met de actieve levensstijl die vegetariërs hebben. Het is dus belangrijk om dat ook mee te nemen in het onderzoek in wat ze daarvoor aan onontbeerlijke voedingsstoffen nodig hebben voor de groei en instandhouding van het lichaam. 
+
