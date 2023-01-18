@@ -62,12 +62,12 @@ Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamhed
 
 Zelf was ik bij voorgaande projecten gewend om na elke afronding van een sprint te gaan reviewen op de uitgevoerde werkzaamheden en opleveringen. Zo heb ik dit gedaan voor mezelf om het beste uit mezelf te kunnen halen. Aangezien we met de SCRUM-methodiek werkten, stelde ik een documentnaam, afgeleid uit een SCRUM-term, genaamd "Review & Retrospective" op na het einde van elke sprint. Hierin beschreef ik de volgende punten in het review & retrospective:
 
-- Inzicht geven in verband tussen resultaat en het doel
+- Inzicht geven in verband tussen resultaat en het sprintdoel
 - Wat ging er goed?
 - Wat ging er fout of kan beter?
 - Hoe gaan deze verbeteringen er komen?
 
-Hieronder zijn de Review & Retrospective per sprint weergegeven:
+Hieronder zijn de Review & Retrospectives per sprint weergegeven:
 
 1. [R&R Container - Sprint 1](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%201.md)
 2. [R&R Container - Sprint 2](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Review%20%26%20Retrospectives/Review%20%26%20Retrospective%20Container%20-%20Sprint%202.md)
