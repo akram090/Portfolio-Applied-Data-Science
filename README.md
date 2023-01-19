@@ -23,6 +23,9 @@ Minor: Applied Data Science
 [3. Data Preprocessing](#3-data-preprocessing)
 
 [4. Communication](#4-communication) 
+  - [4.1 Interne en Externe Presentatie](#41-interne-en-externe-presentaties)
+  - [4.2 Wekelijkse Voortgangsgesprekken](#42-wekelijkse-voortgangsgesprekken)
+  - [4.3 Schrijven van Research Paper](#43-schrijven-van-research-paper)
 
 [Bijlage A](#bijlage-a-scrumboard)
 
