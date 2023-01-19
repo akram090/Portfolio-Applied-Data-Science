@@ -12,13 +12,13 @@ Minor: Applied Data Science
 
 [2. Research Project](#2-research-project) 
 
-[2.1 Planning](#21-planning)
+  - [2.1 Planning](#21-planning)
 
-[2.2 Task definition](#22-task-definition)
+  - [2.2 Task definition](#22-task-definition)
 
-[2.3 Evaluation](#23-evaluation)
+  - [2.3 Evaluation](#23-evaluation)
 
-[2.4 Conclusion](#24-conclusion)
+  - [2.4 Conclusion](#24-conclusion)
 
 [3. Data Preprocessing](#3-data-preprocessing)
 
