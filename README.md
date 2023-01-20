@@ -115,8 +115,13 @@ Voor het schrijven van onze paper heb ik een groot deel gewerkt aan het maken va
 ## 5.3 Explanation of Terminology, Jargon and Definitions
 
 # Bijlage A: Scrumboard
+## Container Project
 ![2023-01-12](https://user-images.githubusercontent.com/113041862/212182725-3a8da138-316a-4b86-a07c-7e476cff891c.png)
 ![2023-01-12 (1)](https://user-images.githubusercontent.com/113041862/212182763-f46f42e8-76d8-4217-a912-acf271c23c86.png)
+
+## Foodboost Project
+![image](https://user-images.githubusercontent.com/113041862/213817401-724ae9b9-b18a-47b3-a3d8-55f5a90ae9ec.png)
+![image](https://user-images.githubusercontent.com/113041862/213817275-47b9b9ca-64de-48e2-9986-f18e8a616593.png)
 
 # Bijlage B: Jupyter Notebooks
 - [Data preprocessing Juptyer Notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb)
