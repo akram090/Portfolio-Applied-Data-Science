@@ -91,9 +91,9 @@ Hieronder zijn de Review & Retrospectives per sprint weergegeven:
 # 3. Data Preprocessing
 In dit onderdeel heb ik mijn geleerde theorie, kennis en de machine learning bronnen toegepast door een notebook aan te maken waarin ik de data preprocess voor het voorspellen van huisprijzen (aan de hand van een gegeven dataset). In principe is het een predictive analysis, maar aangezien ik meer aan de data preprocessing kant heb gewerkt, wil ik de gehanteerde technieken graag meer aantonen. 
 
-[De notebook van de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20(2).ipynb) gedeelte voor het voorspellen van huisprijzen is in Jypyterhub gedaan. Het kan wat tijd nemen voordat de notebook opent na het klikken.
+[De notebook voor de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) voor het voorspellen van huisprijzen is in Jypyterhub gedaan. De stukken code en uitgevoerde cellen zijn voorzien van een logische volgorde door er kopjes en beschrijvingen in te vermelden. Het kan wellicht wat tijd nemen voordat de notebook opent na het klikken.
 
-Kijk in [iris notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/iris-classification-random-forest-Akram.ipynb) wat ik bij kop 4 heb gedaan
+
 
 # 4. Communication
 ## 4.1 Interne en Externe Presentaties
