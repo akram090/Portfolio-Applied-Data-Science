@@ -27,9 +27,9 @@ Minor: Applied Data Science
   - [4.2 Wekelijkse Voortgangsgesprekken](#42-wekelijkse-voortgangsgesprekken)
   - [4.3 Schrijven van Research Paper](#43-schrijven-van-research-paper)
 
-[Bijlage A](#bijlage-a-scrumboard)
+[Bijlage A: Scrumboard](#bijlage-a-scrumboard)
 
-[Bijlage B](#bijlage-b-jupyter-notebooks)
+[Bijlage B: Jupyter Notebooks](#bijlage-b-jupyter-notebooks)
 
 
 
