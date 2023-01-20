@@ -119,3 +119,5 @@ Voor het schrijven van onze paper heb ik een groot deel gewerkt aan het maken va
 ![2023-01-12 (1)](https://user-images.githubusercontent.com/113041862/212182763-f46f42e8-76d8-4217-a912-acf271c23c86.png)
 
 # Bijlage B: Jupyter Notebooks
+- [Data preprocessing Juptyer Notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb)
+- Container Cleaning Jupyter Notebook()
