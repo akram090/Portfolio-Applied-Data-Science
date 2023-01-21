@@ -86,6 +86,8 @@ Hieronder zijn de Review & Retrospectives per sprint weergegeven:
 
 ## 2.4 Conclusion
 
+
+
 [Foto laten zien](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Visualisatie%20PPO%20Learning%20Rate%2050000%20steps.png) van eerste running van 50000 steps van het PPO-model. Deze was op basis van 50000 steps nog niet optimaal, omdat twee learning rates gedurende een episode begonnen te verbeteren. In een volgende running hanteerden wij 1000000 steps om te valideren of de verbetering daadwerklijk zou blijken (verbeterde foto met 1000000 steps laten zien). 
 
 # 3. Data Preprocessing
