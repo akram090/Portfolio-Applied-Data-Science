@@ -86,7 +86,7 @@ Hieronder zijn de Review & Retrospectives per sprint weergegeven:
 
 ## 2.4 Conclusion
 
-
+De hoofdvraag dat binnen het Container Project centraal stond, luidt als volgt: "Hoe kan ervoor gezorgd worden dat containers op de kade op een efficiënte manier opgestapeld kunnen worden, zodat de afnemer van de containers hier makkelijk bij kan". De PPO-model en de A2C-model zijn als twee agents gekozen uit literatuuronderzoek voor het toepassen en oplossen van de optimalisatieprobleem. Voor het kiezen van één model, is er geëvalueerd aan de hand van de performance van de agents. Na het in kaart brengen van de performance van de twee agents, werd PPO over A2C gekozen. Om een optimaal model als eindresultaat te gebruiken, is er gekeken naar de performance van de agent. Verder werden er optimale waarden toegekend aan de PPO-agent door training, om de performance optimaal te krijgen. 
 
 [Foto laten zien](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Visualisatie%20PPO%20Learning%20Rate%2050000%20steps.png) van eerste running van 50000 steps van het PPO-model. Deze was op basis van 50000 steps nog niet optimaal, omdat twee learning rates gedurende een episode begonnen te verbeteren. In een volgende running hanteerden wij 1000000 steps om te valideren of de verbetering daadwerklijk zou blijken (verbeterde foto met 1000000 steps laten zien). 
 
