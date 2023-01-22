@@ -45,9 +45,9 @@ Gedurende het uitvoeren van de twee projecten hebben we gewerkt met de SCRUM-met
 -	Dit is de [link](https://trello.com/invite/b/Ty22iopA/8e136287a9d1e50d2ddcb5670dc728f8/applied-data-science-foodboost-groep-4) naar de scrumboard van de Foodboost project. Als alternatief zijn er twee foto's ingevoegd van de aangemaakte tickets in de scrumboard (Zie [bijlage A](#bijlage-a-scrumboard) onder het kopje ['Foodboost Project'](#foodboost-project) of zie hier [foto 1](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Scrumboard%20foodboost%201.png) en [foto 2](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Scrumboard%20foodboost%202.png) van het scrumboard overzicht). 
 
 
-### Indiduele gewerkte tickets
+### Individuele SCRUM-tickets waar ik aan heb gewerkt
 
-Hieronder zijn mijn indivudele werkzaamheden beschreven over mijn indivudele aangewezen SCRUM-tickets:
+Hieronder zijn mijn individuele werkzaamheden beschreven over mijn aangewezen SCRUM-tickets in het scrumboard:
 
 - [Literatuuronderzoek Scrum ticket - Foodboost Project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/Literatuuronderzoek%20Scrum%20tickets%20Foodboost.md)
 - [Gereed maken container dataset Scrum ticket - Container Project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/Gereedmaken%20Container%20dataset.md)
