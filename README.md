@@ -96,7 +96,10 @@ In dit onderdeel heb ik mijn geleerde theorie, kennis en de machine learning bro
 [De notebook voor de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) voor het voorspellen van huisprijzen is in Jypyterhub gedaan. De stukken code en uitgevoerde cellen zijn voorzien van een logische volgorde door er kopjes en beschrijvingen in te vermelden. Het kan wellicht wat tijd nemen voordat de notebook opent na het klikken.
 
 ## Uitkomst model
-Dit is de uitkomst van het model naar aanleidng van het preprocessen van de house price dataset. Hier heb ik .... verkregen. 
+Dit is de uitkomst van het model naar aanleidng van het preprocessen van de house price dataset. Hier heb ik .... verkregen.
+
+- [Voorspelde huisprijzen](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Voorspelde%20waarden%20preprocessing.png)
+- [Werkelijke huisprijzen](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Werkelijke%20waarden%20preprocessing%20.png)
 
 ## Evaluatie model
 Ook heb ik het Linear regression model gevalueerd. Dit deed ik, aangezien ik toch bezig was met het predicten en de LinearRegression model heb toegepast. Voor het evalueren van de performance van dit model heb ik:
