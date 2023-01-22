@@ -96,7 +96,7 @@ In dit onderdeel heb ik mijn geleerde theorie, kennis en de machine learning bro
 [De notebook voor de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) voor het voorspellen van huisprijzen is in Jypyterhub gedaan. De stukken code en uitgevoerde cellen zijn voorzien van een logische volgorde door er kopjes en beschrijvingen in te vermelden. Het kan wellicht wat tijd nemen voordat de notebook opent na het klikken.
 
 ## Uitkomst model
-Dit is de uitkomst van het model naar aanleidng van het preprocessen van de house price dataset. Hier heb ik .... verkregen.
+Hier wordt de uitkomst van het model naar aanleiding van het preprocessen van de house price dataset weergegeven. De uitkomst van het model is een visualisatie met de voorspelde huisprijzen op basis van de waarden uit de kolom 'sqft_living'. Hieronder heb ik de voorspelde huisprijzen en de werkelijke huisprijzen onder elkaar gezet voor een goede weergave van de mate in hoeverre het model de voorspelt. De uitkomsten van dit model zijn in de [preprocessing notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) te vinden of in onderstaande afbeeldingen:
 
 - [Voorspelde huisprijzen](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Voorspelde%20waarden%20preprocessing.png)
 - [Werkelijke huisprijzen](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Werkelijke%20waarden%20preprocessing%20.png)
