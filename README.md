@@ -95,6 +95,13 @@ In dit onderdeel heb ik mijn geleerde theorie, kennis en de machine learning bro
 
 [De notebook voor de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) voor het voorspellen van huisprijzen is in Jypyterhub gedaan. De stukken code en uitgevoerde cellen zijn voorzien van een logische volgorde door er kopjes en beschrijvingen in te vermelden. Het kan wellicht wat tijd nemen voordat de notebook opent na het klikken.
 
+## Uitkomst model
+Dit is de uitkomst van het model naar aanleidng van het preprocessen van de house price dataset. Hier heb ik .... verkregen. 
+
+## Evaluatie model
+Ook heb ik het Linear regression model gevalueerd. Dit deed ik, aangezien ik toch bezig was met het predicten en de LinearRegression model heb toegepast. Voor het evalueren van de performance van dit model heb ik:
+- De linreg.score() functie gebruikt. De score hiervan is afgerond 0.41. De gebruikte code hiervoor is in de [preprocessing notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) te vinden of in deze [screenshot afbeelding]() te vinden.
+- De Cross_val_score() functie gebruikt. De scores hiervan en de code hiervoor zijn in de [preprocessing notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) te vinden of in deze [screenshot afbeelding]() te vinden.
 
 
 # 4. Communication
