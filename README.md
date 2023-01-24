@@ -90,7 +90,7 @@ De conclusie van het container project, wat ook in de [paper](https://github.com
 
 De conclusie is deels opgesteld aan de hand van bepaalde bevindingen en resultaten waar mijn groepslid Richal aan had gewerkt:
 
-- Om een optimaal PPO-model als eindresultaat te gebruiken voor de oplossing, is er onderzocht hoe optimale waarden tijdens training de performance kan bevorderen. Zie [hier de tabel]() waarbij de hyperparameters met beste waarde inzichtelijk zijn gemaakt door het groen te kleuren. 
+- Om een optimaal PPO-model als eindresultaat te gebruiken voor de oplossing, is er onderzocht hoe optimale waarden tijdens training de performance kan bevorderen. Zie [hier de tabel](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Tabel%20beste%20waarden%20hyperparameter.png) waarbij de hyperparameters met beste waarde inzichtelijk zijn gemaakt door het groen te kleuren. 
 
 - Naar aanleiding van de beste hyperparameter waarden, is het model getraind voor het eindresultaat met een optimale performance. Zie [hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Gem%20episode%20lengte.png) de foto van de gemiddelde episode lengte tijdens het trainen. En zie [hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Gem%20episode%20reward.png) de gemiddelde episode reward gedurende het trainen.
 
