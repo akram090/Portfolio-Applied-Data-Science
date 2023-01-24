@@ -9,7 +9,7 @@ Naast het opstellen van de eindconlusie, heb ik ook een aanbeveling gedaan voor 
 3. Rekening houden met toegankelijkheid van een reachstacker voor het plaatsen van een container (bepaalde containers kunnen ervoor zorgen dat beschikbare locaties worden afgesloten)
 
 
-Zie hieronder het hoofdstuk 'Conclusie' wat in onze paper is geschreven:
+Zie [hieronder](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Conclusie%20in%20paper.md) het hoofdstuk 'Conclusie' wat in onze paper is geschreven:
 
 De hoofdvraag dat in dit project centraal stond, luidt als volgt “Hoe kan ervoor gezorgd worden dat containers op de kade op een efficiënte manier opgestapeld kunnen worden, zodat de afnemer van de containers hier makkelijk bij kan”. Voor het beantwoorden van deze hoofdvraag, is het probleemdomein van tevoren in kaart gebracht. Hieruit is gebleken dat de containerplaatsing op een kade momenteel handmatig verloopt, wat tijd en geld kost. 
 
