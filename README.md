@@ -52,7 +52,7 @@ Hieronder zijn mijn individuele werkzaamheden beschreven over mijn aangewezen SC
 - [Scrum ticket literatuuronderzoek - Foodboost Project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/Literatuuronderzoek%20Scrum%20tickets%20Foodboost.md)
 - [Scrum ticket gereed maken container dataset - Container Project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/Gereedmaken%20Container%20dataset.md)
 - [Scrum ticket inhoudelijke tekst schrijven paper - Container Project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/SCRUM-ticket%20gericht%20schrijven%20Paper.md)
-- [Scrum ticket opstellen conclusie in Paper]()
+- [Scrum ticket opstellen conclusie in Paper](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Tickets%20Scrumboard/Opstellen%20conclusie.md)
 
 
 
