@@ -63,7 +63,13 @@ Daarnaast heb ik zelf ook de doelstelling, hoofdvraag en deelvragen opgesteld in
 
 ## 2.3 Evaluation
 ### Aanbeveling voor vervolgonderzoek (future work) 
+Naast het opstellen van de eindconlusie in de paper, heb ik ook een aanbeveling gedaan voor vervolgonderzoek. Hierin gaf ik een drietal punten mee die voor in een vervolgonderzoek verder onderzocht moeten worden:
 
+1. Uitbreiding van de gesimuleerde container environment in de hoogte (van 3x3x1 naar 3x3x3 bijv. of verder.
+2. Uitbreiden van de rewardfunctie naar het kunnen identificeren van gelijksoortige containerbestemmingen die op of onder elkaar zitten. Momenteel wordt er gekeken naar een naastegelegen container met dezelfde bestemming.
+3. Rekening houden met toegankelijkheid van een reachstacker voor het plaatsen van een container (bepaalde containers kunnen ervoor zorgen dat beschikbare locaties worden afgesloten)
+
+Dit heeft allemaal als doel om de oplossing concreter te maken, zodat het voor een meer praktische simulatie en weergave van de werkelijkheid zorgt.
 
 ### Individuele/persoonlijke evaluatie
 Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamheden van de sprint. Hierbij wordt er aan het eind van elke sprint een Review & Retrospective opgeleverd. De review & retrospective is afkomstig uit de SCRUM-methodiek en is prima toepasbaar in projecten als deze. Er is alleen geëvalueerd op het eigen werk tijdens het Container project. Dit is een voorbedachte keuze, aangezien de Container project een langere duur heeft en wij als groep niet van plan waren om te gaan switchen naar een ander project. 
