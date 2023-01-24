@@ -103,8 +103,8 @@ Hier wordt de uitkomst van het model naar aanleiding van het preprocessen van de
 
 ## Evaluatie model
 Ook heb ik het Linear regression model gevalueerd. Dit deed ik, aangezien ik toch bezig was met het predicten en de LinearRegression model heb toegepast. Voor het evalueren van de performance van dit model heb ik:
-- De linreg.score() functie gebruikt. De score hiervan is afgerond 0.41. De gebruikte code hiervoor is in de [preprocessing notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) te vinden of in deze [screenshot afbeelding]() te vinden.
-- De Cross_val_score() functie gebruikt. De scores hiervan en de code hiervoor zijn in de [preprocessing notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) te vinden of in deze [screenshot afbeelding]() te vinden.
+- De linreg.score() functie gebruikt. De score hiervan is afgerond 0.41. De gebruikte code hiervoor is in de [preprocessing notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) te vinden of in deze [screenshot afbeelding](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Linreg%20score.png) te vinden.
+- De Cross_val_score() functie gebruikt. De scores hiervan en de code hiervoor zijn in de [preprocessing notebook](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) te vinden of in deze [screenshot afbeelding](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Cross%20val%20score.png) te vinden.
 
 
 # 4. Communication
