@@ -9,6 +9,6 @@ Naast het opstellen van de eindconlusie, heb ik ook een aanbeveling gedaan voor 
 3. Rekening houden met toegankelijkheid van een reachstacker voor het plaatsen van een container (bepaalde containers kunnen ervoor zorgen dat beschikbare locaties worden afgesloten)
 
 
-Zie [hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Conclusie%20in%20paper.md) het hoofdstuk 'Conclusie' als aparte hoofdstuk, wat in onze paper is geschreven.
+Zie [hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Conclusie%20in%20paper.md) het hoofdstuk 'Conclusie' als aparte hoofdstuk, wat ik in onze paper heb geschreven.
 
 
