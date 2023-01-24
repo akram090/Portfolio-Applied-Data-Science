@@ -86,7 +86,7 @@ Hieronder zijn de Review & Retrospectives per sprint weergegeven:
 
 ## 2.4 Conclusion
 
-De conclusie van het container project, wat ook in de [paper](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Research%20Paper%20Container%20Project%20Groep%204.pdf) is verwerkt onder het hoofdstuk 'Conclusie', is [hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Conclusie%20in%20paper.md) apart te vinden. 
+De conclusie van het container project, wat ik in de [paper](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Research%20Paper%20Container%20Project%20Groep%204.pdf) heb verwerkt onder het hoofdstuk 'Conclusie', is [hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Conclusie%20in%20paper.md) apart te vinden. Hierin geef ik een samenvatting, een eindconclusie en een aanbeveling weer voor vervolgonderzoek op bepaalde punten.
 
 De conclusie is deels opgesteld aan de hand van bepaalde bevindingen en resultaten waar mijn groepslid Richal aan had gewerkt:
 
