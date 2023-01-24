@@ -124,12 +124,6 @@ Voor het schrijven van onze paper heb ik een groot deel gewerkt aan het indelen 
 - Inleiding: doelstelling, hoofdvraag en deelvragen opgesteld (is later verfijnd door Jesse, Richal en mijzelf).
 - De hoofdstuk 'Conclusie' opgesteld.
 
-# 5. Domain Knowledge
-## 5.1 Introduction of the subject field
-
-## 5.2 Literature Research
-
-## 5.3 Explanation of Terminology, Jargon and Definitions
 
 # Bijlage A: Scrumboard
 ## Container Project
