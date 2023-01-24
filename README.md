@@ -98,13 +98,13 @@ De conclusie is deels opgesteld aan de hand van bepaalde bevindingen en resultat
 # 3. Data Preprocessing
 In dit onderdeel heb ik mijn geleerde theorie, kennis en de machine learning bronnen toegepast door een notebook aan te maken waarin ik de data preprocess voor het voorspellen van huisprijzen (aan de hand van een gegeven dataset). In principe is het een predictive analysis, maar aangezien ik meer aan de data preprocessing kant heb gewerkt, wil ik de gehanteerde technieken graag meer aantonen. 
 
-[De notebook voor de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) voor het voorspellen van huisprijzen is in Jypyterhub gedaan. De stukken code en uitgevoerde cellen zijn voorzien van een logische volgorde door er kopjes en beschrijvingen in te vermelden. Zier hieronder de kopjes die zijn gehanteerd, wat aansluit op het beoordelingsformulier:
+[De notebook voor de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) voor het voorspellen van huisprijzen is in Jypyterhub gedaan. De stukken code en uitgevoerde cellen zijn voorzien van een logische volgorde door er kopjes en beschrijvingen in te vermelden. Zier hieronder de kopjes die zijn gehanteerd en de werkzaamheden die daarvoor zijn uitgevoerd, die aansluiten op het beoordelingsformulier:
 
-- Data exploration (visualiseren van de data, outliers weergeven door middel van histograms, lineare verbanden door inzet van relation plots en de correlaties weergeven door inzet van corr_matrix)
-- Data cleaning 
-- Data explanation (het geven van context wat de data betekent en wat het inhoudt boven of onder bepaalde cellen in markdown weergegeven)
-- Data preparation (waar ik waarden '0' heb verwijderd, outliers heb verwijderd en bepaalde features heb geslecteerd met hoogste correlatie op basis van 'price')
-- Data visualization (voor het maken van beslissingen om bepaalde waarden wel/niet mee te nemen of voor feature selection o.b.v. correlatie matrix)
+- **Data exploration**: visualiseren van de data, outliers weergeven door middel van histograms, lineare verbanden door inzet van relation plots en de correlaties weergeven door inzet van corr_matrix)
+- **Data cleaning**: door bijvoorbeeld floats te parsen naar int. Deze int afronden naar 0. Bepaalde kolommen met objecten een waarde aan toekennen voor mogelijke correlatie. 
+- **Data explanation**: het geven van context wat de data betekent en wat het inhoudt boven of onder bepaalde cellen in markdown weergegeven
+- **Data preparation**: waar ik waarden '0' heb verwijderd, outliers heb verwijderd en bepaalde features heb geslecteerd met hoogste correlatie op basis van 'price'
+- **Data visualization**: voor het maken van beslissingen om bepaalde waarden wel/niet mee te nemen of voor feature selection o.b.v. correlatie matrix
 
 Het kan wellicht wat tijd nemen voordat de notebook opent na het klikken.
 
