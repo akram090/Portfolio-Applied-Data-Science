@@ -62,8 +62,8 @@ In het foodboost project heb ik zelf de hoofdvraag en deelvragen gedefinieerd. D
 Daarnaast heb ik zelf ook de doelstelling, hoofdvraag en deelvragen opgesteld in het Container project. In het stuk onder het kopje ‘Inleiding’, zijn de onderdelen aanleiding en probleemstelling door een ander groepslid opgesteld. In samenspraak werden er in de loop van het project wijzigingen aangebracht in de formuleringen van de hoofdvraag, deelvragen en doelstelling. Het herformuleren van deze onderdelen is een aanleiding geweest vanwege het verkrijgen van meer informatie naarmate de dataset beter interpreteer baar werd. De onderdelen zijn dus niet per se fout geformuleerd, maar het kon door meer informatie beter en compacter geformuleerd worden. Zie hier het document van het [onderzoeksopzet van het Container project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Onderzoeksopzet%20Container%20Project.md), waar de gedefinieerde doelstelling, hoofdvraag en deelvragen in te vinden zijn.
 
 ## 2.3 Evaluation
-### Uitkomst Data Preprocessing 
-Dit is de uitkomst van het preprocessing gedeelte van mijn house price. Hier heb ik .... verkregen. En dit is hoe ik het heb gevalueerd........
+### Aanbeveling voor vervolgonderzoek (future work) 
+
 
 ### Individuele/persoonlijke evaluatie
 Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamheden van de sprint. Hierbij wordt er aan het eind van elke sprint een Review & Retrospective opgeleverd. De review & retrospective is afkomstig uit de SCRUM-methodiek en is prima toepasbaar in projecten als deze. Er is alleen geëvalueerd op het eigen werk tijdens het Container project. Dit is een voorbedachte keuze, aangezien de Container project een langere duur heeft en wij als groep niet van plan waren om te gaan switchen naar een ander project. 
