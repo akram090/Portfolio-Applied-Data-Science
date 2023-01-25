@@ -64,19 +64,11 @@ In het foodboost project heb ik zelf de hoofdvraag en deelvragen gedefinieerd. D
 Daarnaast heb ik zelf ook de doelstelling, hoofdvraag en deelvragen opgesteld in het Container project. In het stuk onder het kopje ‘Inleiding’, zijn de onderdelen aanleiding en probleemstelling door een ander groepslid opgesteld. In samenspraak werden er in de loop van het project wijzigingen aangebracht in de formuleringen van de hoofdvraag, deelvragen en doelstelling. Het herformuleren van deze onderdelen is een aanleiding geweest vanwege het verkrijgen van meer informatie naarmate de dataset beter interpreteer baar werd. De onderdelen zijn dus niet per se fout geformuleerd, maar het kon door meer informatie beter en compacter geformuleerd worden. Zie hier het document van het [onderzoeksopzet van het Container project](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Onderzoeksopzet%20Container%20Project.md), waar de gedefinieerde doelstelling, hoofdvraag en deelvragen in te vinden zijn.
 
 ## 2.3 Evaluation
-### Aanbeveling voor vervolgonderzoek (future work) 
-Naast het opstellen van de eindconlusie in de paper, heb ik ook een aanbeveling gedaan voor vervolgonderzoek. Hierin gaf ik een drietal punten mee die voor in een vervolgonderzoek verder onderzocht moeten worden op basis van onze verkregen resultaten:
-
-1. Uitbreiding van de gesimuleerde container environment in de hoogte (van 3x3x1 naar 3x3x3 bijv. of verder.
-2. Uitbreiden van de rewardfunctie naar het kunnen identificeren van gelijksoortige containerbestemmingen die op of onder elkaar zitten. Momenteel wordt er gekeken naar een naastegelegen container met dezelfde bestemming.
-3. Rekening houden met toegankelijkheid van een reachstacker voor het plaatsen van een container (bepaalde containers kunnen ervoor zorgen dat beschikbare locaties worden afgesloten)
-
-Dit heeft allemaal als doel om de oplossing concreter te maken, zodat het voor een meer praktische simulatie en weergave van de werkelijkheid zorgt.
 
 ### Individuele/persoonlijke evaluatie
 Na het einde van elke sprint wordt er individueel geëvalueerd op de werkzaamheden van de sprint. Hierbij wordt er aan het eind van elke sprint een Review & Retrospective opgeleverd. De review & retrospective is afkomstig uit de SCRUM-methodiek en is prima toepasbaar in projecten als deze. Er is alleen geëvalueerd op het eigen werk tijdens het Container project. Dit is een voorbedachte keuze, aangezien de Container project een langere duur heeft en wij als groep niet van plan waren om te gaan switchen naar een ander project. 
 
-Zelf was ik bij voorgaande projecten gewend om na elke afronding van een sprint te gaan reviewen op de uitgevoerde werkzaamheden en opleveringen. Zo heb ik dit gedaan voor mezelf om het beste uit mezelf te kunnen halen. Aangezien we met de SCRUM-methodiek werkten, stelde ik een documentnaam, afgeleid uit een SCRUM-term, genaamd "Review & Retrospective" op na het einde van elke sprint. Hierin beschreef ik de volgende punten in het review & retrospective:
+Zelf was ik bij voorgaande projecten gewend om na elke afronding van een sprint te gaan reviewen op de uitgevoerde werkzaamheden en opleveringen. Zo heb ik dit gedaan voor mezelf om het beste uit mezelf te kunnen halen en om in een toekomstig project bepaalde activiteiten beter of anders te doen. Aangezien we met de SCRUM-methodiek werkten, stelde ik een documentnaam, afgeleid uit een SCRUM-term, genaamd "Review & Retrospective" op na het einde van elke sprint. Hierin beschreef ik de volgende punten in mijn persoonlijke review & retrospective:
 
 - Inzicht geven in verband tussen resultaat en het sprintdoel
 - Wat ging er goed?
@@ -102,6 +94,14 @@ De conclusie is deels opgesteld aan de hand van bepaalde bevindingen en resultat
 
 - Naar aanleiding van de beste hyperparameter waarden, is het model getraind voor het eindresultaat met een optimale performance. Zie [hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Gem%20episode%20lengte.png) de foto van de gemiddelde episode lengte tijdens het trainen. En zie [hier](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Visualisaties/Gem%20episode%20reward.png) de gemiddelde episode reward gedurende het trainen.
 
+### Aanbeveling voor vervolgonderzoek (future work) 
+Naast het opstellen van de eindconlusie in de paper, heb ik ook een aanbeveling gedaan voor vervolgonderzoek. Hierin gaf ik een drietal punten mee die voor in een vervolgonderzoek verder onderzocht moeten worden op basis van onze verkregen resultaten:
+
+1. Uitbreiding van de gesimuleerde container environment in de hoogte (van 3x3x1 naar 3x3x3 bijv. of verder.
+2. Uitbreiden van de rewardfunctie naar het kunnen identificeren van gelijksoortige containerbestemmingen die op of onder elkaar zitten. Momenteel wordt er gekeken naar een naastegelegen container met dezelfde bestemming.
+3. Rekening houden met toegankelijkheid van een reachstacker voor het plaatsen van een container (bepaalde containers kunnen ervoor zorgen dat beschikbare locaties worden afgesloten)
+
+Dit heeft allemaal als doel om de oplossing concreter te maken, zodat het voor een meer praktische simulatie en weergave van de werkelijkheid zorgt.
 
 # 3. Data Preprocessing
 In dit onderdeel heb ik mijn geleerde theorie, kennis en de machine learning bronnen toegepast door een notebook aan te maken waarin ik de data preprocess voor het voorspellen van huisprijzen (aan de hand van een gegeven dataset). In principe is het een predictive analysis, maar aangezien ik meer aan de data preprocessing kant heb gewerkt, wil ik de gehanteerde technieken graag meer aantonen. 
