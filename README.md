@@ -63,7 +63,7 @@ Daarnaast heb ik zelf ook de doelstelling, hoofdvraag en deelvragen opgesteld in
 
 ## 2.3 Evaluation
 ### Aanbeveling voor vervolgonderzoek (future work) 
-Naast het opstellen van de eindconlusie in de paper, heb ik ook een aanbeveling gedaan voor vervolgonderzoek. Hierin gaf ik een drietal punten mee die voor in een vervolgonderzoek verder onderzocht moeten worden:
+Naast het opstellen van de eindconlusie in de paper, heb ik ook een aanbeveling gedaan voor vervolgonderzoek. Hierin gaf ik een drietal punten mee die voor in een vervolgonderzoek verder onderzocht moeten worden op basis van onze verkregen resultaten:
 
 1. Uitbreiding van de gesimuleerde container environment in de hoogte (van 3x3x1 naar 3x3x3 bijv. of verder.
 2. Uitbreiden van de rewardfunctie naar het kunnen identificeren van gelijksoortige containerbestemmingen die op of onder elkaar zitten. Momenteel wordt er gekeken naar een naastegelegen container met dezelfde bestemming.
