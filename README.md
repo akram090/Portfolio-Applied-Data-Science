@@ -104,7 +104,7 @@ Naast het opstellen van de eindconlusie in de paper, heb ik ook een aanbeveling 
 Dit heeft allemaal als doel om de oplossing concreter te maken, zodat het voor een meer praktische simulatie en weergave van de werkelijkheid zorgt.
 
 # 3. Data Preprocessing
-In dit onderdeel heb ik mijn geleerde theorie, kennis en de machine learning bronnen toegepast door een notebook aan te maken waarin ik de data preprocess voor het voorspellen van huisprijzen (aan de hand van een gegeven dataset). In principe is het een predictive analysis, maar aangezien ik meer aan de data preprocessing kant heb gewerkt, wil ik de gehanteerde technieken graag meer aantonen. 
+In dit onderdeel heb ik mijn geleerde theorie, kennis en bronnen op het gebied van data preprocessing toegepast door een notebook aan te maken waarin ik de data preprocess voor het voorspellen van huisprijzen (aan de hand van een gegeven dataset uit Kaggle). In principe is het een predictive analysis, maar aangezien ik meer aan de data preprocessing kant heb gewerkt, wil ik de gehanteerde technieken graag meer aantonen. 
 
 [De notebook voor de data preprocessing](https://github.com/akram090/Portfolio-Applied-Data-Science/blob/main/Datascience%20notebooks/Predictive%20Analytics%20House%20Price%20De%20juiste!!.ipynb) voor het voorspellen van huisprijzen is in Jypyterhub gedaan. De stukken code en uitgevoerde cellen zijn voorzien van een logische volgorde door er kopjes en beschrijvingen in te vermelden. Zier hieronder de kopjes die zijn gehanteerd en de werkzaamheden die daarvoor zijn uitgevoerd, die aansluiten op het beoordelingsformulier:
 
