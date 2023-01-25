@@ -23,6 +23,8 @@ Groep: Groep 4
   - [2.4 Conclusion](#24-conclusion)
 
 [3. Data Preprocessing](#3-data-preprocessing)
+  - [3.1 Uitkomst model](#31-uitkomst-model)
+  - [3.2 Evaluatie model](#32-evaluatie-model)
 
 [4. Communication](#4-communication) 
   - [4.1 Interne en Externe Presentatie](#41-interne-en-externe-presentaties)
