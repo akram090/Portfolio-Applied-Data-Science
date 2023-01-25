@@ -7,6 +7,8 @@ Studentnummer: 19066171
 
 Minor: Applied Data Science
 
+Groep: Groep 4
+
 # Inhoudsopgave
 [1. Certificaten Datacamp Courses](#1-certificaten-datacamp-courses)  
 
