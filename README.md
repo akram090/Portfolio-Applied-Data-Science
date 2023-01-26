@@ -145,7 +145,7 @@ Voor het schrijven van onze paper heb ik een groot deel gewerkt aan het indelen 
 #### Samenvattend geschreven stukken:
 - Het kopje 'Abstract' in het begin van het paper opgesteld.
 - Inleiding: doelstelling, hoofdvraag en deelvragen opgesteld (is later verfijnd door Jesse, Richal en mijzelf).
-- De hoofdstuk 'Conclusie' opgesteld.
+- Het hoofdstuk 'Conclusie' opgesteld.
 
 
 # Bijlage A: Scrumboard
