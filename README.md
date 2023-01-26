@@ -5,7 +5,7 @@ Student naam: Akram M'barek
 
 Studentnummer: 19066171
 
-Minor: Applied Data Science
+Minor: Applied Data Science (KB-74)
 
 Groep: Groep 4
 
